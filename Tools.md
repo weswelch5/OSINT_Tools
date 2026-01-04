@@ -11,4 +11,4 @@ This collection is living and will be updated / maintained.
 
 
 ### Phone numbers 
-- **Spydialer** (w): Associate a name and general location with a mobile phone number. Hear their voicemail. | https://www.spydialer.com/default.aspx
+- **Spydialer** (w) : Associate a name and general location with a mobile phone number. Hear their voicemail. | https://www.spydialer.com/default.aspx
